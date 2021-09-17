@@ -1,0 +1,446 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Assignment
+</name>
+</assembly>
+<members>
+<member name="T:Assignment.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.asian">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.asian_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.asian_food">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.background1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.barley">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.beverage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.beverage_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.beverage_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.breakfast">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.canteen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.canteen1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.card_reader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.cards">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.cart_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.cash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.chicken_chop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.chicken_rice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.chrysanthemum_tea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.download1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.exit1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.fish_and_chips">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.form1_background_image_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.fruit_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.fruits">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.honeydew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.images__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.kongpoh_rice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.longan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.malay">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.malay_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.mee_goreng">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.minus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.mobile_pay">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.nasi_lemak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.NOTAVAILABLE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.Order_management_background_image_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.papaya">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.pizza">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.report2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.roti_canai">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.salted_egg_rice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.shopping_cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.vendor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.watermelon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.western">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Assignment.My.Resources.Resources.western_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.Order_DetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.PaymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.ProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.UserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.Order_DetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.PaymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.ProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.UserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.Order_DetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.PaymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.ProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSet.UserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.Order_DetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.PaymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.ProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.UserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Assignment.Database1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Assignment.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Assignment.Database1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Assignment.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Assignment.Database1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Assignment.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Assignment.Database1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Assignment.Database1DataSetTableAdapters.TableAdapterManager.UpdateAll(Assignment.Database1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Assignment.Database1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
